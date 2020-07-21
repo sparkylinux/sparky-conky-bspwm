@@ -2,7 +2,7 @@ Sparky Conky bspwm
 This package provides a configuration file for conky of the Sparky bspwm edition. 
 
 Copyright (C) 2016-2020 Paweł Pijanowski
-Contibution: lami07
+Contribution: lami07
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
